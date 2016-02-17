@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/nf/string"
+	"github.com/go_example_code/string"
 )
 
 func main() {
